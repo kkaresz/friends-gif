@@ -1,5 +1,9 @@
 *.DS_Store
 
 target/
-target/resolution-cache
-target/streams
+target/resolution-cache/default/0.1/gifriends_2.10
+target/resolution-cache/reports
+
+target/streams/$global/update/$global/streams
+target/streams/test/externalDependencyClasspath/$global/streams
+target/streams/test/managedClasspath/$global/streams
