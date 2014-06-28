@@ -1,5 +1,7 @@
 *.DS_Store
 
+.cache
+
 target/
 target/resolution-cache/default/0.1/gifriends_2.10
 target/resolution-cache/reports
